@@ -1,6 +1,4 @@
-Certainly! I'll provide you with a simple repository structure for a C++ learning guide, starting with a "Hello World" project. This will be set up as a basic GitHub repository with an initial "Hello World" C++ program.
-
-### Repository Structure
+# Cpp Chad
 
 1. **Create Repository**
 
