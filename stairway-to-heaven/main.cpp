@@ -60,7 +60,7 @@ int main() {
   // std::cerr -> Printing errors to the console
   // std::clog -> Priting log messages to the console
 
-  std::cout << "Hello world" << std::endl;
+  // std::cout << "Hello world" << std::endl;
   int age{24};
   // std::cout << "My years old is: " << age << std::endl;
 
@@ -70,16 +70,16 @@ int main() {
   // int age1;
   // std::string name;
 
-  std::cout << "Please type your name and age: " << std::endl;
+  // std::cout << "Please type your name and age: " << std::endl;
   // std::cin >> name;
   // std::cin >> age;
 
   // std::cin >> name >> age;
 
   /* Data with spaces */
-  std::string full_name;
-  int age3;
-
+  // std::string full_name;
+  // int age3;
+  /*
   std::getline(std::cin, full_name);
   std::cin >> age3;
 
@@ -87,6 +87,7 @@ int main() {
             << full_name 
             << " and her has " 
             << age << " years old" << std::endl;
-
+  */
+  
   return 0;
 }
