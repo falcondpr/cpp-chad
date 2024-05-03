@@ -105,7 +105,3 @@ int main() {
 ```
 
 These examples illustrate different ways of managing memory in C++, from simple dynamic allocation to the use of dynamic containers like `std::vector` and manual memory management for arrays. Understanding when and how to use these techniques is crucial for writing efficient and safe code in C++.
-
-```
-
-```
